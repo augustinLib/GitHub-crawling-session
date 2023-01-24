@@ -287,6 +287,8 @@ poetry.toml
 # Ignore all local history of files
 .history
 .ionide
-data/
+*.csv
+*.jpg
+
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,pycharm+all,jupyternotebooks
